@@ -1,0 +1,15 @@
+.class {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans';
+}
+.cool {
+    font-size: 24px;
+}
+#one {
+    font-size: 36px;
+    color: blue;
+}
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+}
